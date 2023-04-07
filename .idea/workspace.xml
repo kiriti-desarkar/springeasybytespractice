@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1757b7be-05fd-4ebe-89ad-95973c0884b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoproject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoproject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoproject/src/main/java/org/easyspring/beans/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoproject/src/main/java/org/easyspring/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoproject/src/main/java/org/easyspring/main/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoproject/src/test/java/org/easyspring/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1757b7be-05fd-4ebe-89ad-95973c0884b5" name="Changes" comment="Added first files in git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680103533599</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added first files in git">
+      <created>1680880043224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680880043224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added first files in git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added first files in git" />
   </component>
 </project>
